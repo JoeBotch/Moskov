@@ -1,3 +1,4 @@
 First commit on side
 Second commit on side
+for fuck sake
 third commit to result in conflict
